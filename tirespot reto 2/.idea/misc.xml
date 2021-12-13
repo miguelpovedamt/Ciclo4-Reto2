@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 8 12 21/app/src/main/res/layout/activity_carrito.xml" value="0.67" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 8 12 21/app/src/main/res/layout/activity_sucursales.xml" value="0.1213768115942029" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot 8 12 21/app/src/main/res/menu/mimnu.xml" value="0.10625" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 2/app/src/main/res/drawable/buy.xml" value="0.1287037037037037" />
+        <entry key="..\:/Users/Novosix/AndroidStudioProjects/tirespot reto 2/app/src/main/res/layout/activity_carrito.xml" value="0.21" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
